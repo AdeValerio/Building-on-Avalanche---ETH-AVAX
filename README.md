@@ -25,7 +25,7 @@ Users can view available shop items and their prices using the `showShopItems()`
 - `transferDGN(address _to, uint256 _amount)`: Enables token transfer between addresses.
 - `burnDGN(uint256 _amount)`: Allows users to burn (destroy) their tokens.
 
-### Redemption
+### Redeeming
 
 - `redeemDGN(uint256 _item)`: Users can redeem specific items from the shop using their tokens.
 - `getBalance()`: Allows users to check their token balances.
